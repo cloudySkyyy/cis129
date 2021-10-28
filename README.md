@@ -42,3 +42,6 @@ Example Output:
 |31-45|852|
 |46-64|543|
 |65 & over|126|
+
+## Project 3: Final Project
+This program will take an input file containing employee information, split the lines of information, check for valid values, and display any errors found in each line, and calculate the salary of each department from each employee.
