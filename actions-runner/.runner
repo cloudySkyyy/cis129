@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "SongsMacbookPro",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelines.actions.githubusercontent.com/KWuTwthKZ1MluMHHiFe7r8rjJ9bWkhHb763fuPH2ylHxBlwlqp",
-  "gitHubUrl": "https://github.com/songhachheo/autocommit",
-  "workFolder": "_work"
-}
