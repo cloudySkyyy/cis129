@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "SongsMacbookPro",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/nyG0UbfW3LZ8zd4m3BYNO55OYcLt0cHHlh5Ht3VKTsFl8vwl67",
+  "gitHubUrl": "https://github.com/songhachheo/cis129-programming-logic",
+  "workFolder": "_work"
+}
