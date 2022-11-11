@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/songhachheo/cis129-programming-logic/actions/workflows/codeql.yml/badge.svg)](https://github.com/songhachheo/cis129-programming-logic/actions/workflows/codeql.yml)
+
 # CIS129 Introduction to Programming Logic
 ## Project 1: Software Sales
 A software company sells a package that retails for $99. Quantity discounts are given according to the following table:<br>
